@@ -72,7 +72,7 @@ export default function Home() {
             <Sparkles className="w-4 h-4 text-blue-400" />
             <span className="text-xs font-bold tracking-[0.2em] uppercase text-zinc-400">Next-Gen Productivity</span>
           </div>
-          <h1 className="text-6xl md:text-7xl font-bold tracking-tight bg-gradient-to-b from-white to-zinc-500 bg-clip-text text-transparent">
+          <h1 className="text-6xl md:text-7xl font-bold tracking-tight bg-linear-to-b from-white to-zinc-500 bg-clip-text text-transparent">
             Tasks.
           </h1>
           <p className="max-w-md text-zinc-500 text-lg">
